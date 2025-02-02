@@ -4,6 +4,6 @@
 
 ### 1. Clone the entire repository 
 ### 2. Unrar the file "High-Resolution mGRE.rar"
-### 3. Open the IPYNB Notebook named: "HighRes-Net"
+### 3. Open the IPYNB Notebook named: "HighRes_Net"
 ### 4. In the IPYNB Notebook, update the path for the root directory where the repository files are present.
 ### 5. Start running the cells in the IPYNB Notebook one-by-one till the end. 
