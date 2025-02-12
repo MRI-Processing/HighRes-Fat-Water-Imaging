@@ -14,7 +14,7 @@ from tensorflow.keras.layers import Conv2D, Conv2DTranspose
 from tensorflow.keras.layers import MaxPooling2D, GlobalMaxPool2D
 from tensorflow.keras.callbacks import EarlyStopping, ModelCheckpoint, ReduceLROnPlateau
 from tensorflow.keras.optimizers import Adam
-import tensorflow.keras.backend as K
+import tensorflow.keras.backend as k
 import tensorflow.keras.callbacks as cbks
 from tensorflow.keras.layers import concatenate
 from tensorflow.keras.callbacks import CSVLogger
