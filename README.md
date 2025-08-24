@@ -8,4 +8,4 @@
 ### 4. In the IPYNB Notebook, update the path for the root directory where the repository files are present.
 ### 5. Start running the cells in the IPYNB Notebook one-by-one till the end. 
 
-## The folder "Sample data for Conventional Methods using ISMRM Toolbox" contains a sample single-shot high-resolution MRI, structed in a format that can be readily processed in the ISMRM fat-water toolbox to verify the results of Graph Cut and Hierarchical IDEAL methods.
+### Please Note: The folder "Sample data for Conventional Methods using ISMRM Toolbox" contains a sample single-shot high-resolution MRI, structed in a format that can be readily processed in the ISMRM fat-water toolbox to verify the results of Graph Cut and Hierarchical IDEAL methods.
